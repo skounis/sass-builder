@@ -1,0 +1,4 @@
+@import '../variables';
+p {
+    color: map-get($colors, 'blue-100') 
+}
