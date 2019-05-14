@@ -1,5 +1,5 @@
 {
-  "name": "@appseed/sass-builder",
+  "name": "@skounis/sass-builder",
   "author": "Stavros Kounis",
   "license": "EUPL-1.1",
   "version": "0.0.1",
@@ -24,5 +24,20 @@
   },
   "engines": {
     "node": ">=6.9.5"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skounis/sass-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skounis/sass-builder/issues"
+  },
+  "homepage": "https://github.com/skounis/sass-builder#readme"
 }
